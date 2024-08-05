@@ -15,7 +15,7 @@
   2. Determine where the models go wrong and why it struggles in those situations
   3. How this can be applied to the real world and the impacts it may have
      
-These aims are discussed in greater detail on Posters designed by me and my colleagues that I worked along side with for this research. (A pdf or image file may be shared for the poster I created later on)  
+These aims are discussed in greater detail on posters designed by me and my colleagues that I worked along side with for this research. (A pdf or image file may be shared for the poster I created later on)  
 
 **Important Note:** Code to do with the vietnamese reviews does not belong to me and belongs to **An Khanh Hoang** (I currently do not have her github repo link,, but if I get permission to share the link to her repo, I will do so) 
 
